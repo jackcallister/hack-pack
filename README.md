@@ -15,4 +15,4 @@ Join us for:
 
 # How you can help
 
-Help us make (hack club)[http://www.meetup.com/hack-club] awesome! Submit issues as ideas for events we can host or let us know the direction you'd like to see hack club take.
+Help us make [hack club](http://www.meetup.com/hack-club) awesome! Submit issues as ideas for events we can host or let us know the direction you'd like to see hack club take.
